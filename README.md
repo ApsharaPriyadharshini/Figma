@@ -33,6 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
 <div class="Rectangle-16"></div>
 <div class="Screenshot-2025-09-20-224446-3"></div>
 <span class="LOGIN">
@@ -116,7 +117,7 @@ Figma
   height: 653px;
   padding: 0 0 97px;
 }
-
+```
 
 ## OUTPUT:
 ![alt text](umage/image.png)
